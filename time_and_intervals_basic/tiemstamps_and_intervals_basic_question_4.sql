@@ -6,4 +6,4 @@ SELECT NOW() + INTERVAL '10 MONTH';
 
 SELECT NOW() + INTERVAL '10 MONTHS';
 
--- Note that both the plutral and singular forms work
+-- Note that both the plural and singular forms work

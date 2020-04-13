@@ -1,3 +1,3 @@
 -- Select the only the DATE 350 days from today
 
-SELECT NOW()::DATE  + INTERVAL '350 DAYS';
+SELECT (NOW() + INTERVAL '350 DAYS')::DATE ;

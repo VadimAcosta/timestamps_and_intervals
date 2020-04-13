@@ -6,4 +6,4 @@ SELECT NOW() - INTERVAL '35 YEAR';
 
 SELECT NOW() - INTERVAL '35 YEARS';
 
--- Note that both the plutral and singular forms work
+-- Note that both the plural and singular forms work
